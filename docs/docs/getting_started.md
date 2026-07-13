@@ -6,8 +6,9 @@ To participate in the hands-on tutorials and get started exploring the outputs o
 
 Let's start by making a local copy of the `NEMO_Cookbook_tutorial` GitHub repository containing the Jupyter Notebooks used in the tutorial. 
 
+Navigate to your chosen working directory, and then clone the GitHub repo:
+
 ```bash
-# Navigate to your chosen working directory, and then clone the GitHub repo:
 git clone https://github.com/promote-project/NEMO_cookbook_tutorial.git
 ```
 
@@ -45,13 +46,15 @@ We have already installed all of the necessary packages for the tutorial noteboo
 
 To install a Jupyter kernel for the `env_nemo` shared Conda environment, run one of the following commands in your terminal:
 
+**CANARI GWS:**
+
 ```bash
-# CANARI GWS:
 /gws/ssde/j25b/canari/public/env_nemo/bin/python -m ipykernel install --user --name env_nemo --display-name "PROMOTE Sprint (env_nemo)"
 ```
 
+**Terrafirma GWS:**
+
 ```bash
-# TERRAFIRM GWS:
 /gws/ssde/j25b/terrafirma/otooth/env_nemo/bin/python -m ipykernel install --user --name env_nemo --display-name "PROMOTE Sprint (env_nemo)"
 ```
 
