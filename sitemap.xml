@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://oj-tooth.github.io/NEMO_cookbook_tutorial/</loc>
+         <lastmod>2026-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://oj-tooth.github.io/NEMO_cookbook_tutorial/example_analysing_CANARI_LE_with_nemo_cookbook/</loc>
+         <lastmod>2026-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://oj-tooth.github.io/NEMO_cookbook_tutorial/example_analysing_UKESM1-2-LL_with_nemo_cookbook/</loc>
+         <lastmod>2026-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://oj-tooth.github.io/NEMO_cookbook_tutorial/getting_started/</loc>
+         <lastmod>2026-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://oj-tooth.github.io/NEMO_cookbook_tutorial/resources/</loc>
+         <lastmod>2026-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://oj-tooth.github.io/NEMO_cookbook_tutorial/tutorial_0_getting_started_with_xarray/</loc>
+         <lastmod>2026-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://oj-tooth.github.io/NEMO_cookbook_tutorial/tutorial_1_getting_started_with_nemo_cookbook/</loc>
+         <lastmod>2026-07-13</lastmod>
+    </url>
+    <url>
+         <loc>https://oj-tooth.github.io/NEMO_cookbook_tutorial/tutorials/</loc>
+         <lastmod>2026-07-13</lastmod>
+    </url>
+</urlset>
