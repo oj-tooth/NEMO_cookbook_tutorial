@@ -1,4 +1,4 @@
-name:  noc_npd_hackathon_docs
+name:  nemo_cookbook_tutorial_docs
 on:
   push:
     branches: [ main ]

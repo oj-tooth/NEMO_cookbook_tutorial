@@ -1,7 +1,7 @@
 site_name: NEMO Cookbook Tutorial | PROMOTE Sprint 2026
-site_url: https://promote-project.github.io/nemo_cookbook_tutorial/
+site_url: https://oj-tooth.github.io/NEMO_cookbook_tutorial/
 
-repo_url: https://github.com/promote-project/NEMO_cookbook_tutorial
+repo_url: https://github.com/oj-tooth/NEMO_cookbook_tutorial
 repo_name: NEMO Cookbook Tutorial
 edit_uri: edit/main/docs/
 
@@ -77,7 +77,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github 
-      link: https://github.com/promote-project/NEMO_cookbook_tutorial
+      link: https://github.com/oj-tooth/NEMO_cookbook_tutorial
       name: GitHub
 
 extra_javascript:
